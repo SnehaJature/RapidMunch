@@ -7,8 +7,8 @@ Restaurant listings with detailed menus.
 Cart functionality for easy order management.
 
 ### Technologies Used :
-Javascript
-Html/css
-Mysql
-JSP
-Bootstrap
+- Javascript
+- Html/css
+- Mysql
+- JSP
+- Bootstrap
